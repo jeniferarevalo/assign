@@ -1,0 +1,9 @@
+﻿  Assignment6.1-5.cpp
+c:\users\w207614920\documents\visual studio 2017\projects\assignment6.1-5\assignment6.1-5\assignment6.1-5.cpp(26): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\w207614920\documents\visual studio 2017\projects\assignment6.1-5\assignment6.1-5\assignment6.1-5.cpp(29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\w207614920\documents\visual studio 2017\projects\assignment6.1-5\assignment6.1-5\assignment6.1-5.cpp(32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\w207614920\documents\visual studio 2017\projects\assignment6.1-5\assignment6.1-5\assignment6.1-5.cpp(64): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\w207614920\documents\visual studio 2017\projects\assignment6.1-5\assignment6.1-5\assignment6.1-5.cpp(70): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\w207614920\documents\visual studio 2017\projects\assignment6.1-5\assignment6.1-5\assignment6.1-5.cpp(76): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Assignment6.1-5.vcxproj -> c:\users\w207614920\documents\visual studio 2017\Projects\Assignment6.1-5\Debug\Assignment6.1-5.exe
+  Assignment6.1-5.vcxproj -> c:\users\w207614920\documents\visual studio 2017\Projects\Assignment6.1-5\Debug\Assignment6.1-5.pdb (Partial PDB)
